@@ -5,12 +5,13 @@
 layout: home
 ---
 
-Resume
-<p> style="text-align: center;">mardirox@myumanitoba.ca : (204)999-6331</p>
+# Resume
 
 ## Education
 ---
+
 ### Bachelor of Computer Science Honours (Co-op Option)
+
 University of Manitoba, Winnipeg, MB.
 Institutional GPA: 4.21
 Currently Enrolled in:
@@ -20,10 +21,12 @@ Currently Enrolled in:
 	- Professional Practice
 
 ### Bachelor of Science (Honours) in Biochemistry
+
 University of Winnipeg, Winnipeg, MB.
 
 ## Work Experience
 ---
+
 ### Programmer/Analyst
 Agriculture and Agri-Food Canada – Integrated Application Services
 _Full stack developer of an MVC web application used by another AAFC division._
@@ -32,6 +35,7 @@ _Full stack developer of an MVC web application used by another AAFC division._
 	- Tested application and resolved bugs when discovered
 
 ### Junior Software Developer
+
 Upfeat Media Inc.
 _Full stack developer of Laravel and VueJS affiliate marketing web applications._
     - Implemented static web pages for Black Friday clients
@@ -39,9 +43,11 @@ _Full stack developer of Laravel and VueJS affiliate marketing web applications.
 
 ## Skills
 ---
+
 | Languages | Frameworks | Tools | Operating Systems
 JS, SCSS, HTML, SQL, Python, Java, C/C++, Bash | Laravel, React, VueJS | Git, Docker, Vim, Office Software | Linux, Windows, MacOS
 
 ## Publication
 ---
+
 Mardiros, Xian B et al, “Postmating Reproductive isolation between strains of Drosophila willistoni.” Fly (Austin). 2016;10(4)162-171.

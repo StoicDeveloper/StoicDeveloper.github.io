@@ -21,10 +21,10 @@
 title: Xian Mardiros
 email: mardirox@myumanitoba.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  The resume for software developer Xian Mardiros.
+  The personal website for software developer Xian Mardiros.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "stoicdeveloper.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  #twitter_username: jekyllrb
 github_username:  StoicDeveloper
 
 # Build settings
