@@ -9,18 +9,24 @@ The purpose of this document is to provide a guide for creating a resume with ma
 - Have a markdown-formatted resume
 - Have a GitHub account
 - Have a text editor (I used Vim)
+- Be familiar with use of the command line
 
 ## Instructions
 
 1. Create github pages repository
 	- make sure that the repository name is <accountName>.github.io
+
+	In Modern Technical Writing (MTW), Andrew Etter recommends using a distributed version control system such as git. This allows documentation to be worked on simultaneously by multiple different people.
 2. Install and Configure Jekyll
 	- follow the instructions found in the [Jekyll documentation.](https://jekyllrb.com/docs/installation/)
-	- using your preferred command line shell, navigate to the directory you want to create the project in
+	-  navigate to the directory you want to create the project in using your preferred command line shell
 	- create the Jekyll project with `jekyll new <projectName>`
 	- enter the project directory: `cd <projectName>`
 	- clone the github repository gor the project `git clone <repositoryURL`
 	- add the jekyll files to the repository `git add .`
+
+	In MTW, Etter explains the usefulness of Static Site Generators such as Jekyll as simplifying the process of producing HTML files from Markdown. This could be down directly with other software, or the sites could be written directly in HTML, but Jekyll allows this to be done automatically.
+	
 3. Add resume to repository
 	- copy your markdown-formatted resume to the project directory
 	- name it index.md
@@ -42,7 +48,9 @@ My resume, produced with the above method, using the jekyll-theme-hacker templat
 ## More Resources
 
 [Markdown syntax guide](https://www.markdownguide.org/basic-syntax/)
+
 [Guide to Gihub pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+
 [Installing Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 
 
