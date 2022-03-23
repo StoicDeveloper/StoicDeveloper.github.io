@@ -39,6 +39,13 @@ The purpose of this document is to provide a guide for creating a resume with ma
 My resume, produced with the above method, using the jekyll-theme-hacker template, is here:
 ![My Resume](./resume.gif)
 
+## More Resources
+
+[Markdown syntax guide](https://www.markdownguide.org/basic-syntax/)
+[Guide to Gihub pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+[Installing Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+
+
 ## Acknowledgments
 
 Author: Xian Mardiros
