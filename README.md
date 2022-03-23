@@ -36,7 +36,8 @@ The purpose of this document is to provide a guide for creating a resume with ma
 	- Install by following the instructions in the [Jekyll documentation](https://jekyllrb.com/docs/themes/#installing-a-theme)
 	- publish the changes as in 4
 
-My 
+My resume, produced with the above method, using the jekyll-theme-hacker template, is here:
+![My Resume](./resume.gif)
 
 ## Acknowledgments
 
